@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/financeflow/static/css/main.31d6cfe0.css",
+    "main.js": "/financeflow/static/js/main.0f264675.js",
+    "static/js/453.a5583eb1.chunk.js": "/financeflow/static/js/453.a5583eb1.chunk.js",
+    "index.html": "/financeflow/index.html",
+    "main.0f264675.js.map": "/financeflow/static/js/main.0f264675.js.map",
+    "453.a5583eb1.chunk.js.map": "/financeflow/static/js/453.a5583eb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0f264675.js"
+  ]
+}
